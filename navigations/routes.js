@@ -1,0 +1,18 @@
+export const ContentRoutes = {
+  Login: { name: 'Login', label: '로그인' },
+  Main: { name: 'Main', label: '메인 화면' },
+  CreateWord: { name: 'CreateWord', label: '단어 생성' },
+  BookShelf: { name: 'BookShelf', label: '단어장' },
+  QuizStack: { name: 'QuizeStack', label: '퀴즈' },
+  CalendarStack: { name: 'CalendarStack', label: '달력' },
+  Setting: { name: 'Setting', label: '설정' },
+  Quiz: { name: 'Quiz', label: '퀴즈' },
+  SelectQuiz: { name: 'SelectQuiz', label: '사지선다' },
+  SelectQuizStart: { name: 'SelectQuizStart', label: '사지선다 시작' },
+  MeanQuiz: { name: 'MeanQuiz', label: '의미 맞추기' },
+  WordQuiz: { name: 'WordQuiz', label: '단어 맞추기' },
+  SpeedQuiz: { name: 'SpeedQuiz', label: '스피드 퀴즈' },
+  Calendar: { name: 'Calendar', label: '달력' },
+  WordDetail: { name: 'WordDetail', label: '단어 상세' },
+  BookShelfSelect: { name: 'BookShelfSelect', label: '단어장 선택' },
+};
