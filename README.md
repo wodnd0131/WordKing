@@ -33,8 +33,4 @@
 
 [임현우(조장)](https://github.com/woowal), [심규창](https://github.com/gyuchangShim), [임성제](https://github.com/seongje00416), [최혁](https://github.com/choihuk), [황재웅](https://github.com/wodnd0131)
 
-# 파이어베이스 기반 로그인 및 퀴즈 파트 담당
-
-왕관 아이콘  제작자: sonnycandra - Flaticon
-벽돌 아이콘  제작자: Ehtisham Abid - Flaticon
-검 아이콘  제작자: Freepik - Flaticon
+# 파이어베이스 연동 및 퀴즈 파트 담당
