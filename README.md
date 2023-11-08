@@ -1,6 +1,7 @@
 # WordKing
 
 **2023 1학기 모바일 프로그래밍 프로젝트(영단어 애플리케이션)**
+RN Study
 
 ## 실행 환경
 
@@ -33,4 +34,3 @@
 
 [임현우(조장)](https://github.com/woowal), [심규창](https://github.com/gyuchangShim), [임성제](https://github.com/seongje00416), [최혁](https://github.com/choihuk), [황재웅](https://github.com/wodnd0131)
 
-# 파이어베이스 연동 및 퀴즈 파트 담당
